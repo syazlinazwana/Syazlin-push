@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "399874562674",
+    "firebase_url": "https://pushsyazlin.firebaseio.com",
+    "project_id": "pushsyazlin",
+    "storage_bucket": "pushsyazlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399874562674:android:a6544fea486920b4",
+        "android_client_info": {
+          "package_name": "com.example.syazlin.syazlin_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399874562674-min11fs1jno0k97rivc4qs1f73odq360.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR-DO9MC8BRAftD_SRAHV861oUsY35mZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
